@@ -1,0 +1,10 @@
+2026-11-21 10:00:00 INFO Server started successfully
+2026-11-21 10:01:00 INFO Application initialized
+2026-11-21 10:02:00 INFO Database connection established
+2026-11-21 10:03:00 WARNING High memory usage detected
+2026-11-21 10:04:00 ERROR Failed to connect to external API
+2026-11-21 10:05:00 INFO Retrying API connection
+2026-11-21 10:06:00 INFO API connection successful
+2026-11-21 10:07:00 INFO Health check passed
+2026-11-21 10:08:00 WARNING CPU usage above threshold
+2026-11-21 10:09:00 INFO Server running normally
